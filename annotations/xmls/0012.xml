@@ -1,0 +1,35 @@
+<annotation>
+  <folder></folder>
+  <filename>0012.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>832</width>
+    <height>449</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>engine</name>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>52.06</xmin>
+      <ymin>6.61</ymin>
+      <xmax>824.0699999999999</xmax>
+      <ymax>386.8</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>track_id</name>
+        <value>0</value>
+      </attribute>
+      <attribute>
+        <name>keyframe</name>
+        <value>True</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>
